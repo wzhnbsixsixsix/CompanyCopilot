@@ -137,7 +137,7 @@ GuidanceAgent 的主要功能：
 ### 后端启动
 ```bash
 cd backend
-python -m uvicorn app.main:app --host 0.0.0.0 --port 8001 --reload
+python -m uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
 ```
 
 ### 前端启动

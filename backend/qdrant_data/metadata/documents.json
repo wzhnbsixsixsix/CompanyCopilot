@@ -1,0 +1,18 @@
+[
+  {
+    "id": "07a24a5f3855505b7b0990fd07766256",
+    "filename": "740092617 transcript.pdf",
+    "file_type": "pdf",
+    "file_size": 105802,
+    "status": "completed",
+    "chunk_count": 58,
+    "created_at": "2026-03-08T19:30:18.179948",
+    "updated_at": "2026-03-08T19:31:28.165710",
+    "user_id": null,
+    "workspace_id": null,
+    "knowledge_base_id": "690237aa87104853",
+    "description": null,
+    "error_message": null,
+    "image_description": null
+  }
+]

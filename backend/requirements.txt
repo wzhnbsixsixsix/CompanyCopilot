@@ -5,3 +5,15 @@ python-dotenv>=1.0.0
 fastapi>=0.115.0
 uvicorn>=0.30.0
 openai>=1.0.0
+
+# RAG dependencies
+qdrant-client>=1.9.0
+dashscope>=1.20.0
+python-multipart>=0.0.9
+
+# AgentScope RAG Reader dependencies
+pypdf>=4.0.0           # PDFReader
+python-docx>=1.1.0     # WordReader
+pandas>=2.0.0          # ExcelReader
+python-pptx>=0.6.0     # PowerPointReader
+nltk>=3.8.0            # TextReader (sentence splitting)
